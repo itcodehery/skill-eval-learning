@@ -17,3 +17,5 @@ Pushing: Sending your local git repo to an online hosted git repo.
 
 Pulling: Getting the latest version of an online hosted git repo to your local machine.
 
+Staged and Unstaged Changes: Putting whatever is changed into a container and then saving it to a commit.
+
