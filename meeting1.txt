@@ -1,8 +1,6 @@
 # Git and GitHub
 Git is the local (saved on your pc, not online) savepoint creating tool.
-
 GitHub is just a server to store your offline git repository. 
-
 
 Repository = our whole project folder along with each and every changes we make throughout time.
 
@@ -22,3 +20,20 @@ Staged and Unstaged Changes: Putting whatever is changed into a container and th
 Branches: Creating a copy of your project to work on without affecting the main project.
 
 Merges: Merging two commits into a single new commit/ merging two branches into a single branch.
+
+// Git Commands: Essential
+git init 					// initialize a git repo in the current directory
+git status 					// shows the current status of the git repo
+git add <file> 					// adds a file to the staging area
+git add . 					// adds all files to the staging area
+git commit -m "message" 			// commits the staged files to a commit
+git log // shows the commit history
+git remote add origin <url> 			// adds a remote repo to push/pull to/from
+git push -u origin master 			// pushes the master branch to the origin remote
+git pull origin master 				// pulls the master branch from the origin remote+
+git clone <url> 				// clones a git repo from the url
+
+//unnecessary git commands for now
+git branch 					// shows the current branches
+git branch <name> 				// creates a new branch with the given name
+git checkout <branch> 				// switches to the given branch
