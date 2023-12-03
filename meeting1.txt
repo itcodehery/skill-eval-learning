@@ -19,3 +19,6 @@ Pulling: Getting the latest version of an online hosted git repo to your local m
 
 Staged and Unstaged Changes: Putting whatever is changed into a container and then saving it to a commit.
 
+Branches: Creating a copy of your project to work on without affecting the main project.
+
+Merges: Merging two commits into a single new commit/ merging two branches into a single branch.
