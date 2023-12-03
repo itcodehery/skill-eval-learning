@@ -1,0 +1,19 @@
+# Git and GitHub
+Git is the local (saved on your pc, not online) savepoint creating tool.
+
+GitHub is just a server to store your offline git repository. 
+
+
+Repository = our whole project folder along with each and every changes we make throughout time.
+
+Commit = a savepoint in time. We can go back to any commit we want.
+
+Github is used by open source communities to share their code with the world. 
+It is also used by companies to share their code with their employees.
+
+Cloning: Saving online hosted Git Repos to your local machine.
+
+Pushing: Sending your local git repo to an online hosted git repo.
+
+Pulling: Getting the latest version of an online hosted git repo to your local machine.
+
