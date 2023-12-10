@@ -1,0 +1,19 @@
+Today's Topics ig: 
+
+Skill Evaluation 
+CS50P: First project must be hosted on GitHub
+
+Mini project #1 (CRUD-based Team and Task Management Website)
+Main project/goal for the future: Unified Student Portal for India
+
+Today:
+Idea Discussion
+Is the Product Market Fit? Viability? Profitability? Scalability?
+Microservice based Arch 
+
+After Skill Eval:
+Chandan's Idea: AI Powered Classrooms
+[FOR EVERYONE] Make a personal website using GitHub Pages 
+
+Extras: 
+Git and GitHub
