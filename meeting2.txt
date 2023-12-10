@@ -13,7 +13,7 @@ Microservice based Arch
 
 After Skill Eval:
 Chandan's Idea: AI Powered Classrooms
-[FOR EVERYONE] Make a personal website using GitHub Pages 
+[FOR EVERYONE] Make a personal website using GitHub Pages
 
 Extras: 
 Git and GitHub
