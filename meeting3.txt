@@ -1,0 +1,32 @@
+Today's Topics:
+
+Design Thinking
+
+Design Morals
+- Simplicity (WhatsApp)
+- Creativity
+- Scalability
+- Natural Flow
+- Effortlessness (Gesture Control in smartphones)
+- Consistency
+
+Design Systems
+- Our Design System
+
+Examples:
+- https://www.jetbrains.com/space/
+- https://www.figma.com/
+- https://akutostudio.com/
+- https://amo.co
+
+UI Courses (Coursera + YouTube Resources )
+Design Tools
+
+Redesigns of Popular Websites (Using Figma) - A1
+- reddit.com
+- store.steampowered.com
+- linkedin.com
+- amazon.in
+- any government website tbh
+
+Multiple Screens + Better User experience
